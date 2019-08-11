@@ -1,1 +1,2 @@
 This is my first text file for git.
+Now it's changed.
